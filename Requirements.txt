@@ -1,11 +1,4 @@
 streamlit
-tensorflow
-opencv-python
-Pillow
+numpy
 matplotlib
-folium
-streamlit-folium
-scikit-learn
-imagecodecs
-tifffile
-requests
+pandas
